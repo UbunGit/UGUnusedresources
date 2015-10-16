@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 # XQY_Unusedresources
 =======
-#找到在XCode项目中未使用的图像和资源。参照(http://jeffhodnett.github.io/Unused/),但运行非常缓慢,结果并不是完全正确的。所以我做了一些性能优化,搜索速度更比未使用的要快。
+#
+找到在XCode项目中未使用的图像和资源。参照(http://jeffhodnett.github.io/Unused/),但运行非常缓慢,结果并不是完全正确的。所以我做了一些性能优化,搜索速度更比未使用的要快。
 
 ## Example
 
