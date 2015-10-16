@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # XQY_Unusedresources
 =======
-# LSUnusedResources
-A Mac App to find unused images and resources in an XCode project. It is heavily influenced by jeffhodnett‘s [Unused](http://jeffhodnett.github.io/Unused/), but Unused is very slow, and the results are not entirely correct. So I made some performance optimization, the search speed is more faster than Unused.
+#找到在XCode项目中未使用的图像和资源。参照(http://jeffhodnett.github.io/Unused/),但运行非常缓慢,结果并不是完全正确的。所以我做了一些性能优化,搜索速度更比未使用的要快。
 
 ## Example
 
@@ -40,6 +39,7 @@ And using in this way:
 
 `icon_tag_x.png` should not be shown as unused resource, we should ignore them.
 
+找到未使用的文件导出到txt，然后可以在终端执行命令｜sudo rn -r -f ｜文件路径”批量删除文件。
 ## Installation
 
 * Download: [LSUnusedResources.app.zip](https://github.com/tinymind/LSUnusedResources/raw/master/Release/LSUnusedResources.app.zip)
